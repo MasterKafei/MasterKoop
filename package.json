@@ -1,0 +1,22 @@
+{
+  "name": "masterkoop",
+  "version": "1.0.0",
+  "description": "\"# MasterKoop\"",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterKafei/MasterKoop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasterKafei/MasterKoop/issues"
+  },
+  "homepage": "https://github.com/MasterKafei/MasterKoop#readme"
+}
